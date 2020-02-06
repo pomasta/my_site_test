@@ -1,2 +1,3 @@
-# my_site_test
-Testing a webpage with gh-pages
+# Peter's website
+
+Some theoretical project might go here one day 
